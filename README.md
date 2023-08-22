@@ -70,15 +70,15 @@
   <main>
     <section class="section">
       <h2>Chicken</h2>
-      <p>Placeholder text goes here.</p>
+      <p>Savor the juiciness of our Chicken dishes, each bite bursting with flavor. From classic roasted chicken to tangy grilled options, our menu caters to every palate. Delight in the perfect balance of tender meat and savory seasonings, ensuring a memorable dining experience that keeps you coming back for more..</p>
     </section>
     <section class="section">
       <h2>Beef</h2>
-      <p>Placeholder text goes here.</p>
+      <p>Indulge in the richness of our Beef offerings, where quality meets taste. Sink your teeth into tender cuts cooked to your preferred level of doneness. Whether it's a hearty steak or a gourmet burger, our carefully selected beef options promise an unforgettable culinary journey that will satisfy even the most discerning meat enthusiasts..</p>
     </section>
     <section class="section">
       <h2>Sushi</h2>
-      <p>Placeholder text goes here.</p>
+      <p>Embark on a gastronomic adventure with our exquisite Sushi creations. From traditional nigiri to inventive rolls, each piece showcases the artistry of our skilled chefs. Immerse yourself in the delicate textures and harmonious flavors, as fresh seafood and thoughtfully paired ingredients come together to create a symphony of taste. Elevate your dining experience with our captivating Sushi selections..</p>
     </section>
   </main>
 </body>
